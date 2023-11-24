@@ -1,6 +1,1 @@
-#+TITLE: Exercise 9-10
-#+AUTHOR: Dang Quang Vu
-
-- Hoàn thiện bài tập số 9
-- Bài tập buổi 10: là kết nối contract này với front-end
-examples: https://github.com/eamondang/sui-front-end-lesson-10
+Sui move Exercise lesson 9 & 10
